@@ -7,7 +7,7 @@
     },
     "scripts": {
         "test": [
-            "php vendor/bin/phpunit"
+            "phpunit"
         ]
     },
     "autoload": {
