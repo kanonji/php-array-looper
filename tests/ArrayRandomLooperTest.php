@@ -1,10 +1,9 @@
 <?php
 namespace Kanonji\Utility\Tests;
 
-use PHPUnit\Framework\TestCase;
 use Kanonji\Utility\ArrayRandomLooper;
 
-class ArrayRandomLooperTest extends TestCase{
+class ArrayRandomLooperTest extends \PHPUnit_Framework_TestCase{
 
     public function setup(){}
 

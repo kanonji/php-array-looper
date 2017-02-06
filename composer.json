@@ -1,9 +1,10 @@
 {
     "name": "kanonji/php-array-looper",
     "type": "library",
-    "require": {},
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
     "require-dev": {
-        "phpunit/phpunit": "^6.0"
     },
     "scripts": {
         "test": [
